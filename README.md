@@ -2,12 +2,12 @@
 
 ![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQGFl4YqlA1qDg/profile-displaybackgroundimage-shrink_350_1400/0/1623814852264?e=1632355200&v=beta&t=gwURUOXCsvpTi1o400OgRk6NDrx1p-1Lwt_upWlr5SA)
 
-My name is Ivan D. Velez and I'm a frontend developer jr. I'm from Colombia, living in Bogotá and currently working as a freelancer. You can find me on [Twitter](https://twitter.com/ivancho175 '@ivancho175 on Twitter'), or on [LinkedIn](https://www.linkedin.com/in/ivancho175/ 'Ivan Velez on LinkedIn'). You can also visit my dev [Portfolio](https://ivancho175.github.io/My-dev-portfolio/ "Ivan Velez's frontend developer portfolio").
+My name is Ivan D. Velez and I'm a frontend developer jr. I'm from Colombia, living in Bogotá and currently working in a Big Tech company in Bogotá, and . You can find me on [Twitter](https://twitter.com/ivancho175 '@ivancho175 on Twitter'), or on [LinkedIn](https://www.linkedin.com/in/ivancho175/ 'Ivan Velez on LinkedIn'). You can also visit my dev [Portfolio](https://ivancho175.github.io/My-dev-portfolio/ "Ivan Velez's frontend developer portfolio").
 
 
 ##  :writing_hand: What am I doing?
 
-I'm actually doing the 100days of coding challenge, you can join me on [Twitch](https://www.twitch.tv/retroivancho 'RetroIvancho on Twitch'), everyday but sundays at 8:00 pm Bogotá time (-5 hrs GMT).
+I'm actually use the most of my day working in amazing projects on the web, and study at weekends. 
 
 
 ## :wrench: Technologies & Tools
