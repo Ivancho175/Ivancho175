@@ -1,6 +1,6 @@
 # Hi, I'm Ivan :wave:
 
-![Banner]([https://media-exp1.licdn.com/dms/image/C4E16AQGFl4YqlA1qDg/profile-displaybackgroundimage-shrink_350_1400/0/1623814852264?e=1632355200&v=beta&t=gwURUOXCsvpTi1o400OgRk6NDrx1p-1Lwt_upWlr5SA](https://ibb.co/3cDT9GP))
+![Banner](https://i.ibb.co/4p6Fn90/linkedin-banner.png)
 
 My name is Ivan D. Velez and I'm a frontend developer jr. I'm from Colombia, living in Bogotá and currently working in a Big Tech company in Bogotá, and . You can find me on [Twitter](https://twitter.com/ivancho175 '@ivancho175 on Twitter'), or on [LinkedIn](https://www.linkedin.com/in/ivancho175/ 'Ivan Velez on LinkedIn'). You can also visit my dev [Portfolio](https://ivancho175.github.io/My-dev-portfolio/ "Ivan Velez's frontend developer portfolio").
 
